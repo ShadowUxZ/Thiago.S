@@ -12,5 +12,6 @@
   <img align="center" alt="Thi-HTML" height="48" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thi-CSS" height="48" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thi-Python" height="48" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+<img align="center" alt="gif" src="https://github.com/ShadowUxZ/Thiago.S/blob/main/giphy.gif?raw=true"
+</div>
 </div> 
